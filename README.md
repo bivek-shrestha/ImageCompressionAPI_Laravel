@@ -182,7 +182,7 @@ Processes and saves GIF files.
 
 ---
 
-### Done and Submitted by:  
+### Done by:  
 **Bivek Shrestha**  
 📞 9816270779  
 📧 bivekshrestha00@gmail.com
