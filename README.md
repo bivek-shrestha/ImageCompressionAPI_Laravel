@@ -165,11 +165,11 @@ Processes and saves GIF files.
 
 ### Screenshots
 - **Postman API Testing**  
-  _[Insert Screenshot Here]_  
+  ![Postman API Testing](screenshotimages/PostManss.png) 
 - **Initial Property of Image**  
-  _[Insert Screenshot Here]_  
+  ![Initial Property of Image](image_path)  
 - **Converted Property of Image**  
-  _[Insert Screenshot Here]_  
+  ![Converted Property of Image](image_path)  
 
 ## References
 
