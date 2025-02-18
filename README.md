@@ -167,9 +167,9 @@ Processes and saves GIF files.
 - **Postman API Testing**  
   ![Postman API Testing](screenshotimages/PostManss.png) 
 - **Initial Property of Image**  
-  ![Initial Property of Image](image_path)  
+  ![Initial Property of Image](screenshotimages/InitialImageproperties.png)  
 - **Converted Property of Image**  
-  ![Converted Property of Image](image_path)  
+  ![Converted Property of Image](screenshotimages/convertedImage.png)  
 
 ## References
 
