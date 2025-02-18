@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "c3022382-3b3b-4215-838e-1f3bc49f5683",
+		"name": "Laravel Image Upload API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42390330"
+	},
+	"item": [
+		{
+			"name": "Upload Image",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"value": "",
+							"type": "file"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{http://localhost/lele/image-upload-api/public/}}/api/upload",
+					"host": [
+						"{{http://localhost/lele/image-upload-api/public/}}"
+					],
+					"path": [
+						"api",
+						"upload"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
